@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/chance.js"],"names":[],"mappings":"AAAA;AACA;AACA","file":"chance.fce01583.js","sourceRoot":"..","sourcesContent":["// const chance = new Chance();\r\n// console.log(chance.name());\r\n// console.log(chance.longitude());\r\n"]}
